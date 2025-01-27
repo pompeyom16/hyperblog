@@ -31,3 +31,16 @@ body
     border: 1px solid #DDD;
     margin: 0 auto;
 }
+
+#post
+{
+	padding: 1em;
+}
+
+#footer
+{
+	background: #777;
+	color: white;
+	text-align: center;
+	padding: 0.5em;
+}
