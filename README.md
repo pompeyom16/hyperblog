@@ -8,5 +8,6 @@ Un blog increible para el curso de Git y GitHub[https://platzi.com/cursos/gitgit
 * El verdadero amor por las buenas practicas
 * Trucos muy locos del profesor
 * Las personalidades multiples de Freddy
+* Creado por el increible Platzi team
 
 Es un elemplo de un **readme.md**
