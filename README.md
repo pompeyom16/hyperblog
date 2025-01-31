@@ -9,5 +9,10 @@ Un blog increible para el curso de Git y GitHub[https://platzi.com/cursos/gitgit
 * Trucos muy locos del profesor
 * Las personalidades multiples de Freddy
 * Creado por el increible Platzi team
+<<<<<<< HEAD
+=======
+* Incluye ejemplos en Windows, Linux y Mac
+* Disponible para todas las edades
+>>>>>>> readme-mejorado
 
 Es un elemplo de un **readme.md**
